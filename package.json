@@ -1,0 +1,32 @@
+{
+  "name": "vue-rollup-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate starter for vuejs and rollup",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelbore/vue-rollup-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelbore/vue-rollup-starter/issues"
+  },
+  "homepage": "https://github.com/aelbore/vue-rollup-starter#readme",
+  "devDependencies": {
+    "node-sass": "4.10.0",
+    "rollup": "0.67.3",
+    "rollup-plugin-buble": "0.19.4",
+    "rollup-plugin-filesize": "5.0.1",
+    "rollup-plugin-node-resolve": "3.4.0",
+    "rollup-plugin-vue": "4.3.2",
+    "vue-template-compiler": "2.5.17"
+  },
+  "dependencies": {
+    "vue": "2.5.17"
+  }
+}
