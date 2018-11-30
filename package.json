@@ -24,6 +24,7 @@
     "rollup-plugin-filesize": "5.0.1",
     "rollup-plugin-node-resolve": "3.4.0",
     "rollup-plugin-vue": "4.3.2",
+    "ts-node": "^7.0.1",
     "vue-template-compiler": "2.5.17"
   },
   "dependencies": {
